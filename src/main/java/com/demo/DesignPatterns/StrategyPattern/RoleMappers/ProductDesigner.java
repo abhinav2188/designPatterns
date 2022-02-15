@@ -1,4 +1,4 @@
-package com.demo.DesignPatterns.RoleMappers;
+package com.demo.DesignPatterns.StrategyPattern.RoleMappers;
 
 import java.util.Arrays;
 import java.util.List;

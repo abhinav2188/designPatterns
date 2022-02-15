@@ -1,6 +1,7 @@
 package com.demo.DesignPatterns;
 
-import com.demo.DesignPatterns.RoleMappers.RoleType;
+import com.demo.DesignPatterns.StrategyPattern.RoleMappers.RoleType;
+import com.demo.DesignPatterns.StrategyPattern.Employee;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
